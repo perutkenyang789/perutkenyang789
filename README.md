@@ -3,7 +3,7 @@
 ## 🌺 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B35&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Third-Year+Computer+Science+Student;Aspiring+Product+Manager;Proven+Problem-Solver;Always+Exploring+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B35&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Product+Manager;Proven+Problem-Solver;Always+Exploring+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 🎓 **Third-year Computer Science student** at Universitas Indonesia  </br>
