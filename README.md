@@ -3,13 +3,13 @@
 ## 🌺 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B35&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Seeking+Opportunities+%F0%9F%92%A1;Beginner+Software+Developer;Always+Exploring+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B35&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Third-Year+Computer+Science+Student;Aspiring+Product+Manager;Proven+Problem-Solver;Always+Exploring+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
-🎓 **Second-year Computer Science student** at Universitas Indonesia  </br>
-🌴 **Currently exploring** different fields in tech and seeking new opportunities  </br>
-💻 **Passionate about** Software development, clean code, and problem-solving  </br>
-🌊 **Building experience** in cross-platform apps, RESTful APIs, and database management </br>
+🎓 **Third-year Computer Science student** at Universitas Indonesia  </br>
+💡 **Gained hands-on experience** as a **Product Owner Intern at Bank Mandiri**, bridging the gap between business operations and IT.  </br>
+🚀 **Passionate about the end-to-end product lifecycle**, from user need exploration all the way to maintenance and user adoption. </br>
+🌊 **Building experience** in backend development, API design, and database management. </br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=perutkenyang789&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF6B35&icon_color=04D361&text_color=FFFFFF&border_color=FF6B35" alt="GitHub Stats" />
@@ -17,9 +17,9 @@
 
 ## 🚀 Current Focus
 
-🔍 **Exploring:** Backend Development • Mobile Apps • Web Apps • API Design  </br>
-🎯 **Seeking:** Internship Opportunities • Open Source Projects </br>
-💡 **Goal:** Contributing to innovative tech solutions </br>
+🔍 **Exploring:** Product Management • Product Strategy • User Experience (UX) • Backend Development  </br>
+🎯 **Seeking:** High-Impact Product Management Internship Opportunities </br>
+💡 **Goal:** To build user-centric products that create measurable business value </br>
 
 ## 🛠️ Tech Stack
 
@@ -43,6 +43,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
